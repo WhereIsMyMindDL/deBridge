@@ -1,0 +1,5 @@
+colorama==0.4.4
+loguru==0.6.0
+telebot==0.0.5
+tqdm==4.65.0
+web3==6.2.0
